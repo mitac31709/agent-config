@@ -20,7 +20,7 @@ It is read-only by default: installing or starring anything requires your OK.
 Copy the skill folder into the repo where you run your agent:
 
 ```bash
-git clone https://github.com/mitac-31709/agent-skills /tmp/agent-skills
+git clone https://github.com/mitac31709/agent-skills /tmp/agent-skills
 mkdir -p .agents/skills
 cp -r /tmp/agent-skills/.agents/skills/pick-tools-from-stars .agents/skills/
 ```
