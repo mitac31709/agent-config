@@ -34,7 +34,7 @@ It is read-only by default: installing or starring anything requires your OK.
 Copy the skill folder into the repo where you run your agent:
 
 ```bash
-git clone https://github.com/mitac-31709/agent-config /tmp/agent-config
+git clone https://github.com/mitac31709/agent-config /tmp/agent-config
 mkdir -p .agents/skills
 cp -r /tmp/agent-config/.agents/skills/pick-tools-from-stars .agents/skills/
 ```
@@ -67,7 +67,7 @@ A checkout of this repo does not enable those catalogs in Codex, Claude Code, Cu
 Direct pins only:
 
 ```bash
-git clone https://github.com/mitac-31709/agent-config.git
+git clone https://github.com/mitac31709/agent-config.git
 cd agent-config
 git submodule update --init
 ```

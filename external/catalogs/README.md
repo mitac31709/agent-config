@@ -9,7 +9,7 @@ The authoritative pin is the gitlink (`mode 160000`) stored in git. The SHAs bel
 Direct pins only (does not fetch nested submodules, and does not run upstream installers):
 
 ```bash
-git clone https://github.com/mitac-31709/agent-config.git
+git clone https://github.com/mitac31709/agent-config.git
 cd agent-config
 git submodule update --init
 ```

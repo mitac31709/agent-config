@@ -34,6 +34,6 @@ Pinned as submodules unless noted:
 
 ## This repository
 
-- https://github.com/mitac-31709/agent-config
+- https://github.com/mitac31709/agent-config
 
 > Discovery command used by the skill: `npx -y skills find "<query>"` (optional `--owner <publisher>`). Requires network.
